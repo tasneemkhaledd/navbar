@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 20px 80px;
+  align-items: center;
+  margin: 0 auto;
+  box-shadow: 100px black;
+}
+h3 {
+  color: white;
+}
+a {
+  color: white;
+}
+#contact {
+  background-color: #1998C4;
+  border-radius: 4px;
+  padding: 5px;
+}
+.items {
+  display: inline-block;
+  margin: 20px;
+}
+a {
+  font-weight: bold;
+}
